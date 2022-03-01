@@ -16,6 +16,7 @@ Bremlaan,wikidata,,Q145781,way
 "Brugse Steenweg",wikidata,,Q12994,way
 Brugse-Mettenstraat,wikidata,,Q850188,way
 Brugsesteenweg,wikidata,,Q12994,way
+Canadaplein,wikidata,,Q16,way
 "De Klokke-Noord",wikidata,,Q2650907,way
 "De Klokke-Zuid",wikidata,,Q2650907,way
 "Diksmuidse Heerweg",wikidata,,Q194029;Q215244,way
@@ -55,6 +56,7 @@ Meidoornstraat,wikidata,,Q132557,way
 Paardenmarktstraat,wikidata,,Q2179123,way
 Peperstraat,wikidata,,Q37516849,way
 Rozenstraat,wikidata,,Q34687,way
+Sentillenhof,wikidata,,Q156099;Q624114;Q2693423,way
 Sint-Annakerkstraat,wikidata,,Q2555698,way
 Sint-Annaplein,wikidata,,Q2555698;Q164294,way
 Sint-Jansdreef,wikidata,,Q924932,way
@@ -65,6 +67,7 @@ Spinnerijpad,wikidata,,Q19915295,way
 Theresianenstraat,wikidata,,Q25682304,way
 "Tien Geboden",wikidata,,Q34623,way
 "Tijl Uilenspiegelstraat",wikidata,,Q164083,way
+"Torhoutse Steenweg",wikidata,,Q270633,way
 Tramstraat,wikidata,,Q3407658,way
 Tulpenstraat,wikidata,,Q93201,way
 Vindictivestraat,wikidata,,Q1565676,way
@@ -72,6 +75,7 @@ Wilgenstraat,wikidata,,Q158487,way
 Willemijnendreef,wikidata,,Q2004943,way
 Wulfhagestraat,wikidata,,Q36050;Q235779,way
 Zevensterrestraat,wikidata,,Q13423,way
+Zeventorenstraat,wikidata,,Q57076109,way
 's-Gravenstraat,,,,way
 "'s-Heer Boudewijnburg",,,,way
 "'t Groeneveld",,,,way
@@ -121,7 +125,6 @@ Artemislaan,,,,way
 "Arthur Vierendeelweg",,,,way
 Assebroeklaan,,,,way
 Assestraat,,,,way
-Astridlaan,,,,way
 "August Bontestraat",,,,way
 "August Vermeylenstraat",,,,way
 Autobaan,,,,way
@@ -146,7 +149,6 @@ Bargebrug,,,,way
 Bargeweg,,,,way
 Barlenhuisstraat,,,,way
 "Baron De Maerelaan",,,,way
-"Baron Ruzettelaan",,,,way
 "Baron de Serretstraat",,,,way
 Barrierestraat,,,,way
 Barthelstraat,,,,way
@@ -254,7 +256,6 @@ Burgstraat,,,,way
 Calvariebergstraat,,,,way
 "Camiel Van den Busschestraat",,,,way
 "Camille van de Walle de Ghelckestraat",,,,way
-Canadaplein,,,,way
 Canadaring,,,,way
 Canadastraat,,,,way
 Canadezenstraat,,,,way
@@ -554,13 +555,11 @@ Jagerspad,,,,way
 Jagersstraat,,,,way
 "Jakob Moermanstraat",,,,way
 "Jakob Reyvaertstraat",,,,way
-"Jan Blockxstraat",,,,way
 "Jan Britostraat",,,,way
 "Jan Frans Willemsstraat",,,,way
 "Jan Garemijnstraat",,,,way
 "Jan Lernoutstraat",,,,way
 "Jan Miraelstraat",,,,way
-"Jan Moritoenstraat",,,,way
 "Jan Van Hulststraat",,,,way
 "Jan van Hesestraat",,,,way
 Jasmijnstraat,,,,way
@@ -570,8 +569,6 @@ Jezuïtengoed,,,,way
 "Joseph De Smetstraat",,,,way
 "Josué Maertenstraat",,,,way
 "Jozef Verschaveweg",,,,way
-"Jozef van Walleghemstraat",,,,way
-"Jules Van Praetstraat",,,,way
 Kalkovenstraat,,,,way
 Kalsijde-Ader,,,,way
 Kamerheerstraat,,,,way
@@ -591,7 +588,6 @@ Kaproenenhof,,,,way
 "Kardinaal Cardijnstraat",,,,way
 "Karel Cartonstraat",,,,way
 "Karel Custisstraat",,,,way
-"Karel De Ghelderestraat",,,,way
 "Karel de Wolfstraat",,,,way
 Kartuizerinnenstraat,,,,way
 Kartuizersmeers,,,,way
@@ -671,7 +667,6 @@ Konijnenpad,,,,way
 Konijnenpijp,,,,way
 "Koning Leopold III-laan",,,,way
 "Koningin Elisabethlaan",,,,way
-"Koningin Elisabethsquare",,,,way
 Koningstraat,,,,way
 Kooidam,,,,way
 Kooidreef,,,,way
@@ -717,6 +712,7 @@ Krekenstraat,,,,way
 Kreupelbos,,,,way
 Kreupelenstraat,,,,way
 Kriekenstraat,,,,way
+Krinkelpad,,,,way
 Krinkelstraat,,,,way
 "Krom Genthof",,,,way
 Krommestraat,,,,way
@@ -764,6 +760,7 @@ Leiselestraat,,,,way
 Leiseleveld,,,,way
 Leliestraat,,,,way
 Lendestraat,,,,way
+Lentepad,,,,way
 Lentestraat,,,,way
 "Leon De Foerestraat",,,,way
 Leopoldsvaart-Noord,,,,way
@@ -779,7 +776,6 @@ Lindenlaan,,,,way
 Lisstraat,,,,way
 Lobbrechtstraat,,,,way
 "Lodewijk Gilliodtsplein",,,,way
-"Lodewijk van Malestraat",,,,way
 Londenstraat,,,,way
 Loodswezenstraat,,,,way
 "Lopez Gallostraat",,,,way
@@ -866,7 +862,6 @@ Muntplein,,,,way
 Naaldenstraat,,,,way
 Nachtegaalstraat,,,,way
 Nachtegalendreef,,,,way
-Nepomucenusbrug,,,,way
 Neststraat,,,,way
 "New Yorklaan",,,,way
 "Nicolaus Muleriusstraat",,,,way
@@ -991,12 +986,8 @@ Praterstraat,,,,way
 Predikherenrei,,,,way
 Predikherenstraat,,,,way
 "Prins Albertstraat",,,,way
-"Prins Alexanderstraat",,,,way
-"Prins Filiplaan",,,,way
 "Prins Karellaan",,,,way
 Prinsenhof,,,,way
-"Prinses Maria Christinalaan",,,,way
-"Prinses Paolalaan",,,,way
 Puienbroeklaan,,,,way
 Raadsherenlaan,,,,way
 Raamstraat,,,,way
@@ -1069,7 +1060,6 @@ Schoutstraat,,,,way
 Schouwvegersstraat,,,,way
 Schrijversstraat,,,,way
 Schutterstraat,,,,way
-Sentillenhof,,,,way
 Sikkelstraat,,,,way
 "Simon Benningstraat",,,,way
 Singel,,,,way
@@ -1220,7 +1210,6 @@ Titecastraat,,,,way
 Toekomststraat,,,,way
 Torenbrug,,,,way
 Torentje,,,,way
-"Torhoutse Steenweg",,,,way
 Torhoutsesteenweg,,,,way
 Tornooistraat,,,,way
 Tragelweg,,,,way
@@ -1392,7 +1381,6 @@ Zevekotedreef,,,,way
 Zevenbergenlaan,,,,way
 Zeveneke,,,,way
 Zevenkerken,,,,way
-Zeventorenstraat,,,,way
 Zilverberkenstraat,,,,way
 Zilverpand,,,,way
 Zilversparrenstraat,,,,way

@@ -1,11 +1,13 @@
 name,source,gender,wikidata,type
 "Emile en Dora Rommelaerestraat",wikidata,+,Q4502896;Q21638499,way
 "Arnoldine van den Radestraat",wikidata,F,Q84859467,way
+Astridlaan,wikidata,F,Q230238,way
 "Christine D'haenstraat",wikidata,F,Q3224383,way
 "Eleonora Verbekehof",wikidata,F,Q90413160,way
 "Elisabeth Zorghestraat",wikidata,F,Q25711497,way
 "Kathelijne Idestraat",wikidata,F,Q84858520,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
+"Koningin Elisabethsquare",wikidata,F,Q235186,way
 "Maaike Kerrebroeckstraat",wikidata,F,Q84857486,way
 "Maaike Luuxstraat",wikidata,F,Q84858218,way
 "Magda Cafmeyerstraat",wikidata,F,Q1990109,way
@@ -16,6 +18,8 @@ name,source,gender,wikidata,type
 Mariastraat,wikidata,F,Q345,way
 "Petronilla van Outryvestraat",wikidata,F,Q48223900,way
 "Prinses Lilianelaan",wikidata,F,Q234171,way
+"Prinses Maria Christinalaan",wikidata,F,Q642899,way
+"Prinses Paolalaan",wikidata,F,Q31129,way
 Sint-Annarei,wikidata,F,Q164294,way
 Sint-Katarinastraat,wikidata,F,Q179718,way
 "Suzanne de Gieystraat",wikidata,F,Q17351327,way
@@ -32,6 +36,7 @@ Sint-Katarinastraat,wikidata,F,Q179718,way
 "Antoon Viaenestraat",wikidata,M,Q2072506,way
 "August Derrestraat",wikidata,M,Q84958220,way
 "Baron Joseph Ryelandtstraat",wikidata,M,Q1707941,way
+"Baron Ruzettelaan",wikidata,M,Q2832059,way
 "Burgemeester Albin Van Renterghemstraat",wikidata,M,Q2001263,way
 "Carolus de Vischstraat",wikidata,M,Q1066616,way
 "Cesar Gezellestraat",wikidata,M,Q2154331,way
@@ -76,8 +81,10 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Jacobus Roelofstraat",wikidata,M,Q13734924,way
 "Jacobus van Belleghemstraat",wikidata,M,Q1990344,way
 "James Wealestraat",wikidata,M,Q2062803,way
+"Jan Blockxstraat",wikidata,M,Q1681637,way
 "Jan Boninstraat",wikidata,M,Q63978843,way
 "Jan Breydellaan",wikidata,M,Q1394408,way
+"Jan Moritoenstraat",wikidata,M,Q1972342,way
 "Jan van Eyckplein",wikidata,M,Q102272,way
 "Jan van Ruusbroekstraat",wikidata,M,Q920312,way
 "Joe Englishstraat",wikidata,M,Q2925009,way
@@ -88,6 +95,8 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Joseph Wautersstraat",wikidata,M,Q585785,way
 "Joseph de Schepperstraat",wikidata,M,Q2327292,way
 "Jozef Suveestraat",wikidata,M,Q2564914,way
+"Jozef van Walleghemstraat",wikidata,M,Q33646397,way
+"Jules Van Praetstraat",wikidata,M,Q3070531,way
 "Julius Delaplacestraat",wikidata,M,Q84855814,way
 "Julius Dooghelaan",wikidata,M,Q84856717,way
 "Julius en Maurits Sabbestraat",wikidata,M,Q2208295;Q2682894,way
@@ -95,6 +104,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Kanunnik Logghestraat",wikidata,M,Q13428092,way
 "Kanunnik van Hoonackerstraat",wikidata,M,Q4712392,way
 "Kardinaal Mercierstraat",wikidata,M,Q468097,way
+"Karel De Ghelderestraat",wikidata,M,Q2542423,way
 "Karel Ledeganckstraat",wikidata,M,Q13000,way
 "Karel Mestdaghstraat",wikidata,M,Q1817822,way
 "Karel Mirystraat",wikidata,M,Q3076542,way
@@ -114,6 +124,7 @@ Koningsbrug,wikidata,M,Q108855088,way
 "Leopold II-laan",wikidata,M,Q12967,way
 "Lodewijk Coiseaukaai",wikidata,M,Q110245336,way
 "Lodewijk de Raetstraat",wikidata,M,Q2625919,way
+"Lodewijk van Malestraat",wikidata,M,Q469648,way
 "Marcus Laurinstraat",wikidata,M,Q2048595,way
 "Mark Braetstraat",wikidata,M,Q2529336,way
 "Maurice Deroostraat",wikidata,M,Q84960998,way
@@ -130,6 +141,8 @@ Oost-Gistelhof,wikidata,M,Q63419362,way
 "Pieter Pourbusstraat",wikidata,M,Q981558,way
 "Pieter de Conincklaan",wikidata,M,Q1394020,way
 "Priester Fonteynestraat",wikidata,M,Q2280748,way
+"Prins Alexanderstraat",wikidata,M,Q2525208,way
+"Prins Filiplaan",wikidata,M,Q155004,way
 "Prins Leopoldstraat",wikidata,M,Q690327,way
 "Professor Dokter Joseph Sebrechtsstraat",wikidata,M,Q2487013,way
 "Rainer Maria Rilkestraat",wikidata,M,Q76483,way
