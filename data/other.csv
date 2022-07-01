@@ -43,7 +43,6 @@ Groenestraat,wikidata,,,way
 Gruuthusestraat,wikidata,,Q2012173,way
 Gulden-Vlieslaan,wikidata,,Q465774,way
 Hamiltonpark,wikidata,,Q3455451,way
-Handboogstraat,wikidata,,Q46311,way
 Hazelaarsstraat,wikidata,,Q124969,way
 Heidelaan,wikidata,,Q27590,way
 Hullstraat,wikidata,,Q128147,way
@@ -77,6 +76,7 @@ Pathoekeweg,wikidata,,Q59506748,way
 Peperstraat,wikidata,,Q37516849,way
 Pleinstraat,wikidata,,Q174782,way
 Poelweg,wikidata,,Q152841,way
+"Rode Kruisstraat",wikidata,,Q7178,way
 Rozenstraat,wikidata,,Q34687,way
 Sentillenhof,wikidata,,Q156099;Q624114;Q2693423,way
 Sint-Annakerkstraat,wikidata,,Q2555698,way
@@ -407,7 +407,7 @@ Essenboomstraat,,,,way
 Europastraat,,,,way
 Evendijk-Oost,,,,way
 Evendijk-West,,,,way
-"Ever van 't Padstraat",,,,way
+"Evert van 't Padstraat",,,,way
 Expressweg,,,,way
 Ezelpoort,,,,way
 Ezelstraat,,,,way
@@ -525,7 +525,6 @@ Heiststraat,,,,way
 Helmstraat,,,,way
 Hemelbeekstraat,,,,way
 Hemelrijk,,,,way
-"Henri Dunantstraat",,,,way
 Herautlaan,,,,way
 Herdersbruggestraat,,,,way
 Herfstlaan,,,,way
@@ -1030,7 +1029,6 @@ Robijnstraat,,,,way
 "Robrecht van Vlaanderenlaan",,,,way
 Rockallstraat,,,,way
 "Rode Beukendreef",,,,way
-"Rode Kruisstraat",,,,way
 Rode-Haanstraat,,,,way
 Rode-Poortstraat,,,,way
 Rodenonnenstraat,,,,way
@@ -1254,6 +1252,7 @@ Velodroomstraat,,,,way
 Veltemweg,,,,way
 Venetiëstraat,,,,way
 Venkelstraat,,,,way
+Verbindingsbrug,,,,way
 "Verbrand Nieuwland",,,,way
 Verse-Vaartstraat,,,,way
 Verversdijk,,,,way
