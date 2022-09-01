@@ -4,6 +4,7 @@ Aandenkooi,wikidata,,Q20675,way
 Artoisstraat,wikidata,,Q159987,way
 Augustijnenrei,wikidata,,Q2283106,way
 Bareelweg,wikidata,,Q852010,way
+Bastenakenstraat,wikidata,,Q34021,way
 Beekweg,wikidata,,Q63565252,way
 Beenhouwersstraat,wikidata,,Q329737,way
 Begoniastraat,wikidata,,Q158617,way
@@ -19,6 +20,7 @@ Bremlaan,wikidata,,Q145781,way
 "Brugse Steenweg",wikidata,,Q12994,way
 Brugse-Mettenstraat,wikidata,,Q850188,way
 Brugsesteenweg,wikidata,,Q12994,way
+Brusselstraat,wikidata,,Q239,way
 Canadaplein,wikidata,,Q16,way
 Cuwaertpad,wikidata,,Q505194,way
 "De Klokke-Noord",wikidata,,Q2650907,way
@@ -43,6 +45,7 @@ Groenestraat,wikidata,,,way
 Gruuthusestraat,wikidata,,Q2012173,way
 Gulden-Vlieslaan,wikidata,,Q465774,way
 Hamiltonpark,wikidata,,Q3455451,way
+Harwichstraat,wikidata,,Q990616,way
 Hazelaarsstraat,wikidata,,Q124969,way
 Heidelaan,wikidata,,Q27590,way
 Hullstraat,wikidata,,Q128147,way
@@ -64,6 +67,7 @@ Lauwerstraat,wikidata,,Q19963838,way
 Leeuwenbrug,wikidata,,Q2878057,way
 Leeuwstraat,wikidata,,Q2878057,way
 Lissewegestraat,wikidata,,Q1924402,way
+Londenstraat,wikidata,,Q84,way
 Manitobalaan,wikidata,,Q4548865,way
 Meidoornstraat,wikidata,,Q132557,way
 Molengeleed,wikidata,,Q44494,way
@@ -110,6 +114,7 @@ Zandwege,wikidata,,Q34679,way
 Zeveneke,wikidata,,Q33036816,way
 Zevensterrestraat,wikidata,,Q13423,way
 Zeventorenstraat,wikidata,,Q57076109,way
+Zwaluwenstraat,wikidata,,Q39861,way
 's-Gravenstraat,,,,way
 "'s-Heer Boudewijnburg",,,,way
 "'t Groeneveld",,,,way
@@ -131,7 +136,6 @@ Abdijbekestraat,,,,way
 Abdijenroute,,,,way
 Abelendreef,,,,way
 Academiestraat,,,,way
-"Adriaan de Gerlachestraat",,,,way
 Akkerstraat,,,,way
 "Albert II-laan",,,,way
 "Alfons De Baeckestraat",,,,way
@@ -184,7 +188,6 @@ Barlenhuisstraat,,,,way
 "Baron de Serretstraat",,,,way
 Barrierestraat,,,,way
 Barthelstraat,,,,way
-Bastenakenstraat,,,,way
 Bataviastraat,,,,way
 Beaucourtstraat,,,,way
 Beaupréstraat,,,,way
@@ -266,7 +269,6 @@ Brugeoisestraat,,,,way
 Brugge-Centrum,,,,relation
 Bruggestraat,,,,way
 Brugs-Kerkhofstraat,,,,way
-Brusselstraat,,,,way
 "Buiten Begijnevest",,,,way
 "Buiten Boeverievest",,,,way
 "Buiten Boninvest",,,,way
@@ -511,7 +513,6 @@ Hadewijchstraat,,,,way
 Hagedoornlaan,,,,way
 Hallen,,,,way
 Hallestraat,,,,way
-Harwichstraat,,,,way
 Hauwerstraat,,,,way
 Havenrandweg-Zuid,,,,way
 Havenstraat,,,,way
@@ -799,7 +800,6 @@ Lindenlaan,,,,way
 Lisstraat,,,,way
 Lobbrechtstraat,,,,way
 "Lodewijk Gilliodtsplein",,,,way
-Londenstraat,,,,way
 Loodswezenstraat,,,,way
 "Lopez Gallostraat",,,,way
 Loppemstraat,,,,way
@@ -844,7 +844,6 @@ Meestraat,,,,way
 Meeuwenstraat,,,,way
 Meiboomlaan,,,,way
 Meiveldenlaan,,,,way
-Mercatorstraat,,,,way
 Merelstraat,,,,way
 Messem,,,,way
 Meulestee,,,,way
@@ -1079,14 +1078,12 @@ Sikkelstraat,,,,way
 "Simon Benningstraat",,,,way
 Singel,,,,way
 "Sint Jansplein",,,,relation
-"Sint Thomas Morusstraat",,,,way
 Sint-Amandsstraat,,,,way
 Sint-Andriesdreef,,,,way
 Sint-Arnolduslaan,,,,way
 Sint-Baafskerkstraat,,,,way
 Sint-Baafsstraat,,,,way
 Sint-Brunostraat,,,,way
-Sint-Christianastraat,,,,way
 Sint-Claradreef,,,,way
 Sint-Clarastraat,,,,way
 Sint-Donaaskerkstraat,,,,way
@@ -1406,7 +1403,6 @@ Zuidzandstraat,,,,way
 Zuienkerkestraat,,,,way
 Zustersstraat,,,,way
 Zwaanhofstraat,,,,way
-Zwaluwenstraat,,,,way
 Zwanehoek,,,,way
 Zwanestuk,,,,way
 Zwankendammestraat,,,,way
