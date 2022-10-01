@@ -5,6 +5,7 @@ Astridlaan,wikidata,F,Q230238,way
 "Christine D'haenstraat",wikidata,F,Q3224383,way
 "Eleonora Verbekehof",wikidata,F,Q90413160,way
 "Elisabeth Zorghestraat",wikidata,F,Q25711497,way
+"Jeanne De Beirstraat",wikidata,F,Q19587490,way
 "Kathelijne Idestraat",wikidata,F,Q84858520,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
 "Koningin Elisabethlaan",wikidata,F,Q235186,way
@@ -92,6 +93,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Jan Blockxstraat",wikidata,M,Q1681637,way
 "Jan Boninstraat",wikidata,M,Q63978843,way
 "Jan Breydellaan",wikidata,M,Q1394408,way
+"Jan Britostraat",wikidata,M,Q2088778,way
 "Jan Moritoenstraat",wikidata,M,Q1972342,way
 "Jan van Eyckplein",wikidata,M,Q102272,way
 "Jan van Ruusbroekstraat",wikidata,M,Q920312,way
@@ -101,7 +103,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Joris Dumeryplein",wikidata,M,Q3215198,way
 "Joseph Bogaertstraat",wikidata,M,Q2742497,way
 "Joseph De Schepperstraat",wikidata,M,Q2327292,way
-"Joseph Wautersstraat",wikidata,M,Q585785,way
+"Joseph Wautersstraat",wikidata,M,Q1708203;Q585785,way
 "Jozef Suveestraat",wikidata,M,Q2564914,way
 "Jozef van Walleghemstraat",wikidata,M,Q33646397,way
 "Jules Van Praetstraat",wikidata,M,Q3070531,way
@@ -121,7 +123,9 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Karel de Floustraat",wikidata,M,Q2617184,way
 "Karel de Goedestraat",wikidata,M,Q378217,way
 "Karel de Stoutelaan",wikidata,M,Q151120,way
+"Karel de Wolfstraat",wikidata,M,Q2692790,way
 "Keizer Karelstraat",wikidata,M,Q32500,way
+"Keurvorst Karel Theodoorstraat",wikidata,M,Q44961,way
 "Koning Albert I-laan",wikidata,M,Q55008046,way
 "Koning Boudewijnlaan",wikidata,M,Q12976,way
 Koningsbrug,wikidata,M,Q108855088,way
@@ -140,6 +144,7 @@ Mercatorstraat,wikidata,M,Q6353,way
 "Niklaas Desparsstraat",wikidata,M,Q4033680,way
 "Nikolaas Gombertstraat",wikidata,M,Q549689,way
 Noord-Gistelhof,wikidata,M,Q63419362,way
+"Olivier de Wreestraat",wikidata,M,Q5074739,way
 Oost-Gistelhof,wikidata,M,Q63419362,way
 "Pastoor Van Haeckeplantsoen",wikidata,M,Q2426280,way
 "Pater Damiaanstraat",wikidata,M,Q232785,way
@@ -157,6 +162,7 @@ Oost-Gistelhof,wikidata,M,Q63419362,way
 "Rainer Maria Rilkestraat",wikidata,M,Q76483,way
 "Rik Slabbinckstraat",wikidata,M,Q2522353,way
 "Simon Stevinplein",wikidata,M,Q23696,way
+Sint-Arnolduslaan,wikidata,M,Q2158782,way
 Sint-Jakobsstraat,wikidata,M,Q43999,way
 Sint-Jorisstraat,wikidata,M,Q48438,way
 Sint-Maartensbilk,wikidata,M,Q133704,way
