@@ -54,6 +54,7 @@ Gieterijstraat,wikidata,,Q3027462,way
 "Golf van Biskajestraat",wikidata,,Q41573,way
 Goudenregenstraat,wikidata,,Q147939,way
 "Graaf Jansdijk",wikidata,,Q3027864,way
+"Graaf Pierre de Brieylaan",wikidata,,Q112178945,way
 Groenestraat,wikidata,,,way
 Groenlandstraat,wikidata,,Q223,way
 Gruuthusestraat,wikidata,,Q2012173,way
@@ -67,6 +68,7 @@ IJslandstraat,wikidata,,Q189,way
 "Ierse Zeestraat",wikidata,,Q41735,way
 Jachthoornlaan,wikidata,,Q1678302,way
 Jakobinessenstraat,wikidata,,Q2061186,way
+"Jan Breydellaan",wikidata,,Q1394408,way
 Jeruzalemstraat,wikidata,,Q240807,way
 Jezuïtengoed,wikidata,,Q36380,way
 Kapelstraat,wikidata,,Q108325,way
@@ -95,6 +97,7 @@ Lauwerstraat,wikidata,,Q19963838,way
 Leeuwenbrug,wikidata,,Q2878057,way
 Leeuwentandstraat,wikidata,,Q27909,way
 Leeuwstraat,wikidata,,Q2878057,way
+Leiselebeekstraat,wikidata,,Q2609110,way
 Leiselestraat,wikidata,,Q2609110,way
 Lissewegestraat,wikidata,,Q1924402,way
 Londenstraat,wikidata,,Q84,way
@@ -131,6 +134,7 @@ Sentillenhof,wikidata,,Q156099;Q624114;Q2693423,way
 Sint-Annakerkstraat,wikidata,,Q2555698,way
 Sint-Annaplein,wikidata,,Q2555698;Q164294,way
 Sint-Jansdreef,wikidata,,Q924932,way
+Sint-Michielslaan,wikidata,,Q45581,way
 Sint-Paulusstraat,wikidata,,Q56641568,way
 Sint-Pietersgroenestraat,wikidata,,Q2490578,way
 Sint-Pieterskerklaan,wikidata,,Q2490578,way
@@ -194,7 +198,6 @@ Abelendreef,,,,way
 Academiestraat,,,,way
 Akkerstraat,,,,way
 "Albert II-laan",,,,way
-"Alfons De Baeckestraat",,,,way
 "Alfred Ronsestraat",,,,way
 Altebijstraat,,,,way
 Altenastraat,,,,way
@@ -238,7 +241,6 @@ Bargebrug,,,,way
 Bargeweg,,,,way
 Barlenhuisstraat,,,,way
 "Baron De Maerelaan",,,,way
-"Baron de Serretstraat",,,,way
 Barrierestraat,,,,way
 Barthelstraat,,,,way
 Bataviastraat,,,,way
@@ -463,7 +465,6 @@ Ezelstraat,,,,way
 Fazantendreef,,,,way
 "Ferry de Grosstraat",,,,way
 Feverystraat,,,,way
-"Filips Wielantstraat",,,,way
 "Finse Piste",,,,way
 Foerierstraat,,,,way
 Fonteinbrug,,,,way
@@ -526,7 +527,6 @@ Gouden-Handrei,,,,way
 Gouden-Handstraat,,,,way
 Goudsbloemlaan,,,,way
 Goudsmedenstraat,,,,way
-"Graaf Pierre de Brieylaan",,,,way
 Grasdreef,,,,way
 Grauwwerkersstraat,,,,way
 Greinschuurstraat,,,,way
@@ -543,7 +543,6 @@ Groeningebrug,,,,way
 Gruitstraat,,,,way
 Gruttostraat,,,,way
 Gulden-Peerdenstraat,,,,way
-"Gustaaf Baertstraat",,,,way
 "Gustaaf Vermeerschstraat",,,,way
 "Gustave Van Nieuwenhuysestraat",,,,way
 Haanstraat,,,,way
@@ -668,6 +667,7 @@ Kerklaan,,,,way
 Kersenboomstraat,,,,way
 Kervyndreef,,,,way
 Ketsbruggestraat,,,,way
+Keurlingenweg,,,,way
 Kielbankstraat,,,,way
 Kievitstraat,,,,way
 Kipstraat,,,,way
@@ -790,7 +790,6 @@ Leffingestraat,,,,way
 "Lege Moerstraat",,,,way
 Legeweg,,,,way
 Leikendreef,,,,way
-Leiselebeekstraat,,,,way
 Leiseleveld,,,,way
 Leliestraat,,,,way
 Lendestraat,,,,way
@@ -833,7 +832,6 @@ Malelatenstraat,,,,way
 Maleveld,,,,way
 Mallebergplaats,,,,way
 Mantelstuk,,,,way
-"Marcel Minnaertstraat",,,,way
 "Marcus Gerardsstraat",,,,way
 "Margareta van Vlaanderenstraat",,,,way
 Mariabrug,,,,way
@@ -914,7 +912,6 @@ Omookaai,,,,way
 "Onder de Toren",,,,way
 Ontmijnerslaan,,,,way
 Ontvangersstraat,,,,way
-Onze-Lieve-Vrouwedreef,,,,way
 Onze-Lieve-Vrouwekerkhof-zuid,,,,way
 Oorlogsvrijwilligerslaan,,,,way
 Oosterlingenplein,,,,way
@@ -934,7 +931,6 @@ Oud-Strijderslaan,,,,way
 "Oude Kortrijkstraat",,,,way
 "Oude Oostendse Steenweg",,,,way
 "Oude Pastoriestraat",,,,way
-"Oude Sint-Annadreef",,,,way
 "Oude Zak",,,,way
 "Oude Zomerstraat",,,,way
 "Oude Zwinstraat",,,,way
@@ -1040,7 +1036,6 @@ Ropeerdstraat,,,,way
 Roskamweg,,,,way
 Rozendal,,,,way
 Rozenhoedkaai,,,,way
-Rubenslaan,,,,way
 Ruitersweg,,,,way
 Rustenburgstraat,,,,way
 Ryckevelde,,,,way
@@ -1080,7 +1075,6 @@ Sint-Gilliskerkhof,,,,way
 Sint-Gilliskerkstraat,,,,way
 Sint-Gilliskoorstraat,,,,way
 Sint-Godelievedreef,,,,way
-Sint-Godelievelaan,,,,way
 Sint-Hubrechtsmolenstraat,,,,way
 Sint-Jakobsplein,,,,way
 "Sint-Jan in de Meers",,,,way
@@ -1094,7 +1088,6 @@ Sint-Lucaslaan,,,,way
 Sint-Maartenplein,,,,way
 Sint-Maartensplein,,,,way
 Sint-Michielsestraat,,,,way
-Sint-Michielslaan,,,,way
 Sint-Niklaasstraat,,,,way
 Sint-Obrechtsstraat,,,,way
 Sint-Pieterskaai,,,,way
@@ -1102,7 +1095,6 @@ Sint-Pietersstatiedreef,,,,way
 Sint-Pietersstraat,,,,way
 Sint-Salvatorskerkhof,,,,way
 Sint-Sebastiaansstraat,,,,way
-Sint-Trudostraat,,,,way
 "Site Oud Sint-Jan",,,,way
 Sledestraat,,,,way
 Sluisstraat,,,,way

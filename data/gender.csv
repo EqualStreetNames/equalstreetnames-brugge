@@ -23,6 +23,8 @@ Magdalenastraat,wikidata,F,Q63070,way
 Mariastraat,wikidata,F,Q345,way
 "Nieuwe Sint-Annadreef",wikidata,F,Q164294,way
 Onze-Lieve-Vrouweader,wikidata,F,Q345,way
+Onze-Lieve-Vrouwedreef,wikidata,F,Q345,way
+"Oude Sint-Annadreef",wikidata,F,Q164294,way
 "Petronilla van Outryvestraat",wikidata,F,Q48223900,way
 "Prinses Lilianelaan",wikidata,F,Q234171,way
 "Prinses Maria Christinalaan",wikidata,F,Q642899,way
@@ -30,6 +32,7 @@ Onze-Lieve-Vrouweader,wikidata,F,Q345,way
 Sint-Annarei,wikidata,F,Q164294,way
 Sint-Christianastraat,wikidata,F,Q113572232,way
 Sint-Clarastraat,wikidata,F,Q191107,way
+Sint-Godelievelaan,wikidata,F,Q461908,way
 Sint-Katarinastraat,wikidata,F,Q179718,way
 Sint-Walburgastraat,wikidata,F,Q160686,way
 "Suzanne de Gieystraat",wikidata,F,Q17351327,way
@@ -40,6 +43,7 @@ Sint-Walburgastraat,wikidata,F,Q160686,way
 "Albert Dyserynckstraat",wikidata,M,Q2831142,way
 "Albert Serreynstraat",wikidata,M,Q84960176,way
 "Albrecht Rodenbachstraat",wikidata,M,Q2497011,way
+"Alfons De Baeckestraat",wikidata,M,Q1980114,way
 "Alfons Stynsstraat",wikidata,M,Q111628735,way
 "Alfons Wybolaan",wikidata,M,Q100354638,way
 "Amaat Vynckestraat",wikidata,M,Q3421496,way
@@ -51,6 +55,7 @@ Sint-Walburgastraat,wikidata,F,Q160686,way
 Barbesaenstraat,wikidata,M,Q2541990,way
 "Baron Joseph Ryelandtstraat",wikidata,M,Q1707941,way
 "Baron Ruzettelaan",wikidata,M,Q2832059,way
+"Baron de Serretstraat",wikidata,M,Q4425122,way
 "Burgemeester Albin Van Renterghemstraat",wikidata,M,Q2001263,way
 "Burgemeester de Croeserstraat",wikidata,M,Q2538277,way
 "Carolus de Vischstraat",wikidata,M,Q1066616,way
@@ -71,6 +76,7 @@ Barbesaenstraat,wikidata,M,Q2541990,way
 "Eugeen Van Steenkistestraat",wikidata,M,Q57197744,way
 "Felix Timmermansstraat",wikidata,M,Q713284,way
 "Ferdinand De Smetstraat",wikidata,M,Q2567506,way
+"Filips Wielantstraat",wikidata,M,Q2641927,way
 "Filips de Goedelaan",wikidata,M,Q239337,way
 Fosterpark,wikidata,M,Q2294213,way
 "Francois Pauwelsstraat",wikidata,M,Q2236541,way
@@ -86,6 +92,7 @@ Fosterpark,wikidata,M,Q2294213,way
 Greenhillstraat,wikidata,M,Q91135758,way
 "Guido Gezellelaan",wikidata,M,Q336977,way
 "Guido Gezelleplein",wikidata,M,Q336977,way
+"Gustaaf Baertstraat",wikidata,M,Q4420870,way
 "Gustave Vincke Dujardinstraat",wikidata,M,Q78692494,way
 "Hans Memlinglaan",wikidata,M,Q106851,way
 "Hendrik Brugmansstraat",wikidata,M,Q657515,way
@@ -105,7 +112,6 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "James Wealestraat",wikidata,M,Q2062803,way
 "Jan Blockxstraat",wikidata,M,Q1681637,way
 "Jan Boninstraat",wikidata,M,Q63978843,way
-"Jan Breydellaan",wikidata,M,Q1394408,way
 "Jan Britostraat",wikidata,M,Q2088778,way
 "Jan Frans Willemsstraat",wikidata,M,Q983184,way
 "Jan Miraelstraat",wikidata,M,Q84850656,way
@@ -157,6 +163,7 @@ Koningsbrug,wikidata,M,Q108855088,way
 "Lodewijk Coiseaukaai",wikidata,M,Q110245336,way
 "Lodewijk de Raetstraat",wikidata,M,Q2625919,way
 "Lodewijk van Malestraat",wikidata,M,Q469648,way
+"Marcel Minnaertstraat",wikidata,M,Q543383,way
 "Marcus Laurinstraat",wikidata,M,Q2048595,way
 "Mark Braetstraat",wikidata,M,Q2529336,way
 "Maurice Deroostraat",wikidata,M,Q84960998,way
@@ -183,6 +190,7 @@ Oost-Gistelhof,wikidata,M,Q63419362,way
 "Professor Dokter Joseph Sebrechtsstraat",wikidata,M,Q2487013,way
 "Rainer Maria Rilkestraat",wikidata,M,Q76483,way
 "Rik Slabbinckstraat",wikidata,M,Q2522353,way
+Rubenslaan,wikidata,M,Q5599,way
 "Simon Stevinplein",wikidata,M,Q23696,way
 Sint-Arnolduslaan,wikidata,M,Q2158782,way
 Sint-Donaasstraat,wikidata,M,Q1240660,way
@@ -193,6 +201,7 @@ Sint-Jozefsstraat,wikidata,M,Q128267,way
 Sint-Maartensbilk,wikidata,M,Q133704,way
 Sint-Pietersmolenstraat,wikidata,M,Q33923,way
 "Sint-Thomas Morusstraat",wikidata,M,Q42544,way
+Sint-Trudostraat,wikidata,M,Q2589783,way
 Spinolarei,wikidata,M,Q359936,way
 "Stijn Streuvelsstraat",wikidata,M,Q175669,way
 "Veldmaarschalk Fochstraat",wikidata,M,Q192615,way
