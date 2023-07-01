@@ -225,7 +225,6 @@ Autobaan,,,,way
 Avignonlaan,,,,way
 Azalealaan,,,,way
 Aziëstraat,,,,way
-Azijnstraat,,,,way
 Baanderheerstraat,,,,way
 Babbaertstraat,,,,way
 "Bachten Beukenbos",,,,way
@@ -279,7 +278,6 @@ Blauwvoetstraat,,,,way
 Blekerijstraat,,,,way
 Blekersstraat,,,,way
 Blekkaard,,,,way
-Blekkaardwegel,,,,way
 Blijdenburg,,,,way
 Blinde-Ezelstraat,,,,way
 Bloemendalestraat,,,,way
@@ -536,13 +534,11 @@ Groeningebrug,,,,way
 "Groot Ter Doest",,,,way
 "Grote Ede",,,,way
 "Grote Moerstraat",,,,way
-"Grote Thems",,,,way
 Gruitstraat,,,,way
 Gruttostraat,,,,way
 Gulden-Peerdenstraat,,,,way
 "Gustaaf Vermeerschstraat",,,,way
 "Gustave Van Nieuwenhuysestraat",,,,way
-Haanstraat,,,,way
 Haarakkerstraat,,,,way
 Hadewijchstraat,,,,way
 Hagedoornlaan,,,,way
@@ -692,7 +688,6 @@ Kloostermuur,,,,way
 Kloosterveld,,,,way
 Kloppersweg,,,,way
 Kluppelmeers,,,,way
-Knoksebaan,,,,way
 Koeiendreef,,,,way
 Koestraat,,,,way
 Koetelwijk,,,,way
@@ -792,13 +787,11 @@ Leliestraat,,,,way
 Lendestraat,,,,way
 Lentepad,,,,way
 Lentestraat,,,,way
-Leopoldsvaart-Noord,,,,way
 Lettenburgweg,,,,way
 "Lieven Bauwensstraat",,,,way
 Lijsterbeekstraat,,,,way
 Lijsterstraat,,,,way
 Lindelaan,,,,way
-Lindenlaan,,,,way
 "Lisseweegs Opperhof",,,,way
 "Lisseweegs Vaartje",,,,way
 "Lisseweegse Steenweg",,,,way
@@ -823,6 +816,7 @@ Maaibilk,,,,way
 Maalderijstraat,,,,way
 "Maalse Steenweg",,,,way
 Magdalenapad,,,,way
+Magdalenaplein,,,,way
 Malegalgstraat,,,,way
 Malehoeklaan,,,,way
 Malelatenstraat,,,,way
@@ -1064,6 +1058,7 @@ Sint-Amandsstraat,,,,way
 Sint-Andriesdreef,,,,way
 Sint-Baafskerkstraat,,,,way
 Sint-Baafsstraat,,,,way
+Sint-Brunoplein,,,,way
 Sint-Brunostraat,,,,way
 Sint-Claradreef,,,,way
 Sint-Donaaskerkstraat,,,,way
@@ -1082,6 +1077,7 @@ Sint-Jozefsplein,,,,way
 Sint-Kristoffelstraat,,,,way
 Sint-Kruisstraat,,,,way
 Sint-Lenardsstraat,,,,way
+Sint-Lodewijkspad,,,,way
 Sint-Lucaslaan,,,,way
 Sint-Maartenplein,,,,way
 Sint-Maartensplein,,,,way
@@ -1193,7 +1189,6 @@ Twijnstraat,,,,way
 Uitkerkestraat,,,,way
 Unescorotonde,,,,way
 Vaartbekeweg,,,,way
-Vaartdijk,,,,way
 Vaartdijk-Noord,,,,way
 Vaartdijkstraat,,,,way
 Vagevuurstraat,,,,way
@@ -1332,8 +1327,7 @@ Zandstraat,,,,way
 Zandtiende,,,,way
 Zeebruggelaan,,,,way
 Zeedijk,,,,way
-"Zeedijk - Heist",,,,way
-"Zeedijk Heist",,,,way
+Zeedijk-Heist,,,,way
 Zeegeulstraat,,,,way
 Zeekanaalweg,,,,way
 Zeelaan,,,,way
