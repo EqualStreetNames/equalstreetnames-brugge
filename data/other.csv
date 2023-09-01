@@ -33,6 +33,7 @@ Dennenhof,wikidata,,Q101680,way
 Doggerstraat,wikidata,,Q2353279,way
 Dopheidestraat,wikidata,,Q206998,way
 Egelpad,wikidata,,Q6145,way
+Eiermarkt,wikidata,,Q1811127,way
 Eikenlaan,wikidata,,Q12004,way
 Elf-Julistraat,wikidata,,Q277589,way
 Elzenstraat,wikidata,,Q25239,way
@@ -101,6 +102,7 @@ Leiselestraat,wikidata,,Q2609110,way
 Lissewegestraat,wikidata,,Q1924402,way
 Londenstraat,wikidata,,Q84,way
 Manitobalaan,wikidata,,Q4548865,way
+Markt,wikidata,,Q1108938,relation+way
 Meiboomlaan,wikidata,,Q76574,way
 Meidoornstraat,wikidata,,Q132557,way
 Mezenstraat,wikidata,,Q168473,way
@@ -225,6 +227,7 @@ Autobaan,,,,way
 Avignonlaan,,,,way
 Azalealaan,,,,way
 Aziëstraat,,,,way
+Azijnstraat,,,,way
 Baanderheerstraat,,,,way
 Babbaertstraat,,,,way
 "Bachten Beukenbos",,,,way
@@ -436,13 +439,11 @@ Eekhoutstraat,,,,way
 Eendenweg,,,,way
 "Egied Strubbestraat",,,,way
 Eiensluisstraat,,,,way
-Eiermarkt,,,,way
 "Eigen Heerd",,,,way
 "Eigen Heerdlaan",,,,way
 Eikenberg,,,,way
 Eikvarenstraat,,,,way
 Eiland,,,,way
-Elizabetlaan,,,,way
 Elvoordestraat,,,,way
 "Emmanuel De Cloedtweg",,,,way
 Engelendalelaan,,,,way
@@ -622,7 +623,6 @@ Kalsijde-Ader,,,,way
 Kamerheerstraat,,,,way
 Kammakersstraat,,,,way
 Kamperfoeliestraat,,,,way
-Kandelaarstraat,,,,way
 Kanselierlaan,,,,way
 Kantwerkstersplein,,,,way
 "Kanunnik Andriesstraat",,,,way
@@ -717,6 +717,7 @@ Korendragersstraat,,,,way
 "Korte Molenstraat",,,,way
 "Korte Raamstraat",,,,way
 "Korte Ridderstraat",,,,way
+"Korte Rijkepijndersstraat",,,,way
 "Korte Ropeerdstraat",,,,way
 "Korte Speelmansstraat",,,,way
 "Korte Sportstraat",,,,way
@@ -831,7 +832,6 @@ Mariabrug,,,,way
 Marienhovedreef,,,,way
 Markgraafstraat,,,,way
 Markiesstraat,,,,way
-Markt,,,,relation+way
 Marktplein,,,,relation+way
 Marktstraat,,,,way
 Matmeers,,,,way
@@ -1110,7 +1110,6 @@ Speyenstraat,,,,way
 Spiegelrei,,,,way
 Spijkersdreef,,,,way
 Spijkerswegel,,,,way
-Spikkelboorstraat,,,,way
 Spoorwegstraat,,,,way
 Sportstraat,,,,way
 Spreeuwenstraat,,,,way
@@ -1136,6 +1135,7 @@ Stokerstraat,,,,way
 Stokveldelaan,,,,way
 Stokveldepad,,,,way
 Stokveldewijk,,,,way
+Stoofstraat,,,,way
 Stoppelbilk,,,,way
 Strobrug,,,,way
 Strostraat,,,,way
