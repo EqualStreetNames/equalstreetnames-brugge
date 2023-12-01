@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+18-Oktoberstraat,wikidata,,Q2964,way
 Aandenkooi,wikidata,,Q20675,way
 "Acht Zaligheden",wikidata,,Q51643,way
 Artoisstraat,wikidata,,Q159987,way
@@ -22,6 +23,7 @@ Bremlaan,wikidata,,Q145781,way
 Brugse-Mettenstraat,wikidata,,Q850188,way
 Brugsesteenweg,wikidata,,Q12994,way
 Brusselstraat,wikidata,,Q239,way
+"Burggraaf de Nieulantlaan",wikidata,,Q21281455,way
 Canadaplein,wikidata,,Q16,way
 Canadastraat,wikidata,,Q16,way
 Canadezenstraat,wikidata,,Q1196645,way
@@ -187,7 +189,6 @@ Zwaluwenstraat,wikidata,,Q39861,way
 "'t Veld",,,,way
 "'t Zand",,,,relation+way
 "'t Zweerd",,,,way
-18-Oktoberstraat,,,,way
 "A.J. Witteryckstraat",,,,way
 Aanborgersstraat,,,,way
 Aardenburgseweg,,,,way
@@ -334,7 +335,6 @@ Brugs-Kerkhofstraat,,,,way
 "Buiten de Kruispoort",,,,way
 "Buiten de Smedenpoort",,,,way
 Burg,,,,way
-"Burggraaf de Nieulantlaan",,,,way
 Burggraafstraat,,,,way
 Burgstraat,,,,way
 Calvariebergstraat,,,,way
@@ -429,8 +429,6 @@ Dulleweg,,,,way
 Dwarsstraat,,,,way
 Dweersstraat,,,,way
 Edestraat,,,,way
-"Edgard De Smedtplantsoen",,,,way
-"Edward De Jansstraat",,,,way
 "Edward Joossensplein",,,,way
 Eekhoutpoort,,,,way
 Eekhoutstraat,,,,way
@@ -785,7 +783,6 @@ Lendestraat,,,,way
 Lentepad,,,,way
 Lentestraat,,,,way
 Lettenburgweg,,,,way
-"Lieven Bauwensstraat",,,,way
 Lijsterbeekstraat,,,,way
 Lijsterstraat,,,,way
 Lindelaan,,,,way
@@ -1342,7 +1339,6 @@ Zoete-Vaartstraat,,,,way
 Zomerlindestraat,,,,way
 Zomerstraat,,,,way
 Zonnekemeers,,,,way
-"Zuidelijke Kruispoortbrug",,,,way
 Zuiderakker,,,,way
 Zuiderboomgaard,,,,way
 Zuidervaartje,,,,way
