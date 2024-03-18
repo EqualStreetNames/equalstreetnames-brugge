@@ -30,6 +30,7 @@ Onze-Lieve-Vrouwedreef,wikidata,F,Q345,way
 "Prinses Lilianelaan",wikidata,F,Q234171,way
 "Prinses Maria Christinalaan",wikidata,F,Q642899,way
 "Prinses Paolalaan",wikidata,F,Q31129,way
+"Simonne Danneelsstraat",wikidata,F,Q124015744,way
 Sint-Annarei,wikidata,F,Q164294,way
 Sint-Christianastraat,wikidata,F,Q113572232,way
 Sint-Clarastraat,wikidata,F,Q191107,way
@@ -82,8 +83,8 @@ Barbesaenstraat,wikidata,M,Q2541990,way
 "Filips Wielantstraat",wikidata,M,Q2641927,way
 "Filips de Goedelaan",wikidata,M,Q239337,way
 Fosterpark,wikidata,M,Q2294213,way
-"Francois Pauwelsstraat",wikidata,M,Q2236541,way
-"Francois Versluysstraat",wikidata,M,Q2643909,way
+"François Pauwelsstraat",wikidata,M,Q2236541,way
+"François Versluysstraat",wikidata,M,Q2643909,way
 "Frank Van Ackerpromenade",wikidata,M,Q1444353,way
 "Frans Gevaertstraat",wikidata,M,Q682376,way
 "Frederik Sanderlaan",wikidata,M,Q67113,way
@@ -96,6 +97,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Guido Gezellelaan",wikidata,M,Q336977,way
 "Guido Gezelleplein",wikidata,M,Q336977,way
 "Gustaaf Baertstraat",wikidata,M,Q4420870,way
+"Gustaaf Vermeerschstraat",wikidata,M,Q1835766,way
 "Gustave Vincke-Dujardinstraat",wikidata,M,Q78692494,way
 "Hans Memlinglaan",wikidata,M,Q106851,way
 "Hendrik Brugmansstraat",wikidata,M,Q657515,way
@@ -106,9 +108,9 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Hugo Clauspad",wikidata,M,Q117783,way
 "Hugo Losschaertstraat",wikidata,M,Q84850761,way
 "Hugo Verrieststraat",wikidata,M,Q981444,way
-"Jacob Van Maerlantstraat",wikidata,M,Q1393906,way
 "Jacob de Meyerestraat",wikidata,M,Q2745910,way
 "Jacob van Arteveldestraat",wikidata,M,Q359165,way
+"Jacob van Maerlantstraat",wikidata,M,Q1393906,way
 "Jacob van Ooststraat",wikidata,M,Q388619,way
 "Jacobus Roelofstraat",wikidata,M,Q13734924,way
 "Jacobus Van Belleghemstraat",wikidata,M,Q1990344,way
@@ -118,12 +120,13 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Jan Breydellaan",wikidata,M,Q1394408,way
 "Jan Britostraat",wikidata,M,Q2088778,way
 "Jan Frans Willemsstraat",wikidata,M,Q983184,way
+"Jan Garemijnstraat",wikidata,M,Q664002,way
 "Jan Miraelstraat",wikidata,M,Q84850656,way
 "Jan Moritoenstraat",wikidata,M,Q1972342,way
 "Jan Van Hulststraat",wikidata,M,Q59139966,way
 "Jan van Eyckplein",wikidata,M,Q102272,relation+way
 "Jan van Hesestraat",wikidata,M,Q112709935,way
-"Jan van Ruusbroekstraat",wikidata,M,Q920312,way
+"Jan van Ruusbroecstraat",wikidata,M,Q920312,way
 "Joe Englishstraat",wikidata,M,Q2925009,way
 "Jonkheer Paul Coppietersdreef",wikidata,M,Q1890641,way
 "Joost de Damhouderstraat",wikidata,M,Q2167378,way
@@ -131,15 +134,15 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Joseph Bogaertstraat",wikidata,M,Q2742497,way
 "Joseph De Schepperstraat",wikidata,M,Q2327292,way
 "Joseph Wautersstraat",wikidata,M,Q1708203;Q585785,way
-"Jozef Suveestraat",wikidata,M,Q2564914,way
+"Jozef Suvéestraat",wikidata,M,Q2564914,way
 "Jozef van Walleghemstraat",wikidata,M,Q33646397,way
-"Jules Van Praetstraat",wikidata,M,Q3070531,way
+"Jules van Praetstraat",wikidata,M,Q3070531,way
 "Julius Delaplacestraat",wikidata,M,Q84855814,way
 "Julius Dooghelaan",wikidata,M,Q84856717,way
 "Julius en Maurits Sabbestraat",wikidata,M,Q2208295;Q2682894,way
-"Kannunink Duclosstraat",wikidata,M,Q2524668,way
+"Kanunnik Duclosstraat",wikidata,M,Q2524668,way
 "Kanunnik Logghestraat",wikidata,M,Q13428092,way
-"Kanunnik van Hoonackerstraat",wikidata,M,Q4712392,way
+"Kanunnik Van Hoonackerstraat",wikidata,M,Q4712392,way
 "Kardinaal Mercierstraat",wikidata,M,Q468097,way
 "Karel Ledeganckstraat",wikidata,M,Q13000,way
 "Karel Mestdaghstraat",wikidata,M,Q1817822,way
@@ -159,7 +162,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Koning Leopold III-laan",wikidata,M,Q12973,way
 Koningsbrug,wikidata,M,Q108855088,way
 "Leo Van Geluwestraat",wikidata,M,Q1831669,way
-"Leon De Foerestraat",wikidata,M,Q2416833,way
+"Leon de Foerestraat",wikidata,M,Q2416833,way
 "Leopold Debruynestraat",wikidata,M,Q84852880,way
 "Leopold I-laan",wikidata,M,Q12971,way
 "Leopold II-dam",wikidata,M,Q12967,way
@@ -168,6 +171,7 @@ Koningsbrug,wikidata,M,Q108855088,way
 "Lodewijk Coiseaukaai",wikidata,M,Q110245336,way
 "Lodewijk de Raetstraat",wikidata,M,Q2625919,way
 "Lodewijk van Malestraat",wikidata,M,Q469648,way
+"Louis de Meystraat",wikidata,M,Q2219989,way
 "Marcel Minnaertstraat",wikidata,M,Q543383,way
 "Marcus Laurinstraat",wikidata,M,Q2048595,way
 "Mark Braetstraat",wikidata,M,Q2529336,way
@@ -209,6 +213,7 @@ Sint-Trudostraat,wikidata,M,Q2589783,way
 Spinolarei,wikidata,M,Q359936,way
 "Stijn Streuvelsstraat",wikidata,M,Q175669,way
 "Veldmaarschalk Fochstraat",wikidata,M,Q192615,way
+Watteeuwstraat,wikidata,M,Q56258064,way
 West-Gistelhof,wikidata,M,Q63419362,way
 "Willem Van Saeftingestraat",wikidata,M,Q2596422,way
 "Willem de Dekenstraat",wikidata,M,Q2907281,way
