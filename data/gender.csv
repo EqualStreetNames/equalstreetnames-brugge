@@ -52,6 +52,7 @@ Sint-Walburgastraat,wikidata,F,Q160686,way
 "Amaat Vynckestraat",wikidata,M,Q3421496,way
 "André Goossensstraat",wikidata,M,Q47074882,way
 "Andreas Wydtsstraat",wikidata,M,Q81314563,way
+"Antoon Jozef Witteryckstraat",wikidata,M,Q2360599,way
 "Antoon Viaenestraat",wikidata,M,Q2072506,way
 "Arthur Vierendeelweg",wikidata,M,Q1800802,way
 "August Derrestraat",wikidata,M,Q84958220,way
@@ -102,7 +103,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Gustaaf Vermeerschstraat",wikidata,M,Q1835766,way
 "Gustave Vincke-Dujardinstraat",wikidata,M,Q78692494,way
 "Hans Memlinglaan",wikidata,M,Q106851,way
-"Hendrik Brugmansstraat",wikidata,M,Q657515,way
+"Hendrik Brugmansstraat",wikidata,M,Q1444353;Q657515,way
 "Hendrik Consciencelaan",wikidata,M,Q378133,way
 "Hendrik Waelputstraat",wikidata,M,Q2453577,way
 "Henri Dunantstraat",wikidata,M,Q12091,way
@@ -130,6 +131,7 @@ Greenhillstraat,wikidata,M,Q91135758,way
 "Jan van Hesestraat",wikidata,M,Q112709935,way
 "Jan van Ruusbroecstraat",wikidata,M,Q920312,way
 "Joe Englishstraat",wikidata,M,Q2925009,way
+"John F. Kennedyplein",wikidata,M,Q9696,way
 "Jonkheer Paul Coppietersdreef",wikidata,M,Q1890641,way
 "Joost de Damhouderstraat",wikidata,M,Q2167378,way
 "Joris Dumeryplein",wikidata,M,Q3215198,way
@@ -209,11 +211,12 @@ Sint-Hubertuslaan,wikidata,M,Q159834,way
 Sint-Jakobsstraat,wikidata,M,Q43999,way
 Sint-Jorisstraat,wikidata,M,Q48438,way
 Sint-Jozefsstraat,wikidata,M,Q128267,way
+Sint-Lucaslaan,wikidata,M,Q128538,way
 Sint-Maartensbilk,wikidata,M,Q133704,way
+Sint-Pieterskaai,wikidata,M,Q33923,way
 Sint-Pietersmolenstraat,wikidata,M,Q33923,way
 "Sint-Thomas Morusstraat",wikidata,M,Q42544,way
 Sint-Trudostraat,wikidata,M,Q2589783,way
-Spinolarei,wikidata,M,Q359936,way
 "Stijn Streuvelsstraat",wikidata,M,Q175669,way
 "Veldmaarschalk Fochstraat",wikidata,M,Q192615,way
 Watteeuwstraat,wikidata,M,Q56258064,way
