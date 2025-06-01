@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 18-Oktoberstraat,wikidata,,Q2964,way
+Aandenkooi,wikidata,,Q20675,way
 Aardenburgseweg,wikidata,,Q955,way
 "Acht Zaligheden",wikidata,,Q51643,way
 Akkerstraat,wikidata,,Q188869,way
@@ -302,7 +303,6 @@ Beaupréstraat,,,,way
 Beeldenmakersstraat,,,,way
 Beeweg,,,,way
 Begijnhof,,,,way
-Begjinhof,,,,way
 Beisbroekdreef,,,,way
 Berenwegel,,,,way
 Bergjesbos,,,,way
@@ -368,7 +368,7 @@ Brugeoisestraat,,,,way
 Brugge-Centrum,,,,relation
 Bruggestraat,,,,way
 Brugs-Kerkhofstraat,,,,way
-"Buiten Begijnevest",,,,way
+"Buiten Begijnenvest",,,,way
 "Buiten Boeverievest",,,,way
 "Buiten Boninvest",,,,way
 "Buiten Gentpoortvest",,,,way
@@ -1050,7 +1050,6 @@ Rustenburgstraat,,,,way
 Ryckevelde,,,,way
 "Saint George's Day-Wandeling",,,,way
 Sarepta,,,,way
-Sashuisbrug,,,,way
 Sasplein,,,,way
 Schaakstraat,,,,way
 Schaapsgras,,,,way
