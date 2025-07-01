@@ -848,7 +848,6 @@ Mantelstuk,,,,way
 "Marcus Gerardsstraat",,,,way
 "Margareta van Oostenrijkstraat",,,,way
 "Margareta van Vlaanderenstraat",,,,way
-Mariabrug,,,,way
 "Marianne van Outryveweg",,,,way
 "Marie Pintelonstraat",,,,way
 "Marie Popelinplantsoen",,,,way
@@ -928,7 +927,7 @@ Oorlogsvrijwilligerslaan,,,,way
 Oost-Proosse,,,,way
 Oosterlingenplein,,,,way
 Oostkerkestraat,,,,way
-Oostmeers,,,,way
+Oostmeers,,,,relation+way
 Oostzeestraat,,,,way
 Opkensstraat,,,,way
 Oranjeboomstraat,,,,way
@@ -1258,7 +1257,7 @@ Walletje,,,,way
 Walplein,,,,way
 Walraetstraat,,,,way
 "Walram Romboudtstraat",,,,way
-Walstraat,,,,way
+Walstraat,,,,relation
 Walstrostraat,,,,way
 Walweinstraat,,,,way
 Wandelaarstraat,,,,way
@@ -1339,7 +1338,7 @@ Zilverstraat,,,,way
 Zoete-Vaartstraat,,,,way
 Zomerlindestraat,,,,way
 Zomerstraat,,,,way
-Zonnekemeers,,,,way
+Zonnekemeers,,,,relation
 Zuiderakker,,,,way
 Zuiderboomgaard,,,,way
 Zuidveldstraat,,,,way
