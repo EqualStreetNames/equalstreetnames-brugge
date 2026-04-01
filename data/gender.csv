@@ -42,10 +42,12 @@ Canadaring,wikidata,-,Q16,way
 Canadastraat,wikidata,-,Q16,way
 Canadezenstraat,wikidata,-,Q1196645,way
 Casenbrootlaan,wikidata,-,Q13571208,way
+Collegestraat,wikidata,-,Q123491452,way
 Coupure,wikidata,-,Q450611,way
 Cuwaertpad,wikidata,-,Q505194,way
 Dampoortstraat,wikidata,-,Q13511153,way
 "Damse Vaart",wikidata,-,Q2111729,way
+"Damse Vaart-Zuid",wikidata,-,Q2111729,way
 "De Klokke-Noord",wikidata,-,Q2650907,way
 "De Klokke-Zuid",wikidata,-,Q2650907,way
 Dennenhof,wikidata,-,Q101680,way
@@ -121,6 +123,7 @@ Koggenstraat,wikidata,-,Q164057,way
 Kolenkaai,wikidata,-,Q24489,way
 "Korte Eriestraat",wikidata,-,Q5492,way
 "Korte Sint-Annastraat",wikidata,-,Q2555698,way
+"Korte Sportstraat",wikidata,-,Q349,way
 Kotterstraat,wikidata,-,Q683363,way
 Kraakstraat,wikidata,-,Q220635,way
 Kriekenstraat,wikidata,-,Q196,way
@@ -128,6 +131,7 @@ Laconiastraat,wikidata,-,Q993431,way
 Langestraat,wikidata,-,Q36253,way
 Lauwerstraat,wikidata,-,Q19963838,way
 Leeuwentandstraat,wikidata,-,Q27909,way
+Leeuwerikstraat,wikidata,-,Q29858,way
 Leeuwstraat,wikidata,-,Q2878057,way
 Leiselebeekstraat,wikidata,-,Q2609110,way
 Leiselestraat,wikidata,-,Q2609110,way
@@ -139,6 +143,7 @@ Markt,wikidata,-,Q1108938,relation+way
 Meiboomlaan,wikidata,-,Q76574,way
 Meidoornstraat,wikidata,-,Q132557,way
 Mezenstraat,wikidata,-,Q168473,way
+"Moerkerkse Steenweg",wikidata,-,Q2765413,way
 Molenaarsstraat,wikidata,-,Q694116,way
 Molengeleed,wikidata,-,Q44494,way
 Molensteenstraat,wikidata,-,Q670985,way
@@ -176,6 +181,7 @@ Sentillenhof,wikidata,-,Q156099;Q624114;Q2693423,way
 Sint-Annakerkstraat,wikidata,-,Q2555698,way
 Sint-Annaplein,wikidata,-,Q2555698;Q164294,way
 Sint-Jansdreef,wikidata,-,Q924932,way
+Sint-Kruisstraat,wikidata,-,Q2505670,way
 Sint-Michielsestraat,wikidata,-,Q430812,way
 Sint-Michielslaan,wikidata,-,Q430812;Q45581,way
 Sint-Paulusstraat,wikidata,-,Q56641568,way
@@ -273,6 +279,7 @@ Onze-Lieve-Vrouwedreef,wikidata,F,Q345,way
 Sint-Annarei,wikidata,F,Q164294,way
 Sint-Christianastraat,wikidata,F,Q113572232,way
 Sint-Clarastraat,wikidata,F,Q191107,way
+Sint-Godelievedreef,wikidata,F,Q461908,way
 Sint-Godelievelaan,wikidata,F,Q461908,way
 Sint-Katarinastraat,wikidata,F,Q179718,way
 Sint-Walburgastraat,wikidata,F,Q160686,way
@@ -450,6 +457,7 @@ Sint-Hubertuslaan,wikidata,M,Q159834,way
 Sint-Jakobsstraat,wikidata,M,Q43999,way
 Sint-Jorisstraat,wikidata,M,Q48438,way
 Sint-Jozefsstraat,wikidata,M,Q128267,way
+Sint-Kristoffelstraat,wikidata,M,Q193507,way
 Sint-Lucaslaan,wikidata,M,Q128538,way
 Sint-Maartensbilk,wikidata,M,Q133704,way
 Sint-Pieterskaai,wikidata,M,Q33923,way
